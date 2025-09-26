@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Miika Heinonen, student in LAB University of Applied Sciences
+I am Miika Heinonen, student in LAB University of Applied Sciences.
 <!--
 **Rokshootz/rokshootz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
